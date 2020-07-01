@@ -110,4 +110,7 @@ NOTE: The Test of Work (PoW) used in mobile phones can only use a maximum diffic
 
 On mobile phones do not use a maximum difficulty of 5 as the system may lock up and not respond properly.
 
+More information.
+www.openqbit.com
+
 
