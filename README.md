@@ -18,7 +18,7 @@ The manuals are found in the "HandBooks" directory in the following languages â€
 
 Extensions are found in the "Extensions" directory which are described in detail in the user manual.
 
-The diffrent extensiond that provide us with levels of security to save, validate and transfer transactions from the Mini BlocklyChain network nodes.
+The different extensions that provide us with levels of security to save, validate and transfer transactions from the Mini BlocklyChain network nodes.
 
 The security blocks are based on the following extensions:
 
