@@ -17,3 +17,26 @@ To review the way of use, there is a user manual created to implement a blockcha
 The manuals are found in the "HandBooks" directory in the following languages ​​(Spanish, English, Chinese, German, French, Italian, Japanese, Dutch and Portuguese).
 
 Extensions are found in the "Extensions" directory which are described in detail in the user manual.
+
+The diffrent extensiond that provide us with levels of security to save, validate and transfer transactions from the Mini BlocklyChain network nodes.
+
+The security blocks are based on the following extensions:
+
+I.	  OpenQbitAESEncryption extension.
+
+II.	  OpenQbitAESDecryption extension.
+
+III.	OpenQbitAEStoString extension.
+
+IV.	  OpenQbitEncDecData extension.
+
+V.	  OpenQbitFileHash extension.
+
+VI.	  OpenQbitRSA extension.
+
+VII.	OpenQbitSSHClient extension.
+
+VIII.	OpenQbitStringHash extension.
+
+IX.	  OpenSQLite extension.
+
