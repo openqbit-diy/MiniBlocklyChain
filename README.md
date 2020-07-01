@@ -40,3 +40,5 @@ VIII.	OpenQbitStringHash extension.
 
 IX.	  OpenSQLite extension.
 
+X.    OpenQbitBlock extension.
+
