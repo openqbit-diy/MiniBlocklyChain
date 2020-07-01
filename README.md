@@ -3,7 +3,7 @@
 ![imagen](https://user-images.githubusercontent.com/60530547/86207891-1ea4d080-bb35-11ea-84d2-1b9aee22cf97.png)
 
 
-The free version of Mini BlocklyChain, is a blockchain based on Blockly programming for App Inventor and others blockly systems. Information is available at languages ​​(Spanish, English, Chinese, German, French, Italian, Japanese, Dutch and Portuguese).
+The opensource version of Mini BlocklyChain, is a blockchain based on Blockly programming for App Inventor and others blockly systems. Information is available at languages ​​(Spanish, English, Chinese, German, French, Italian, Japanese, Dutch and Portuguese).
 
 Mini BlocklyChain is a fully functional blockchain is a technology developed for mobile phones with OS (Operating System) Android that will be the nodes that will perform in sending and receiving transactions. We created the first blockchain technology that is structured in a "modular" way through Blockly programming where anyone with minimal knowledge and without knowing how to program can create and develop programs for mobile phones and create their own blockchain either in public or private network mode. If you want to create your own digital currency you can do it or a solution to use it in a company, the possibilities are based on the needs of each real case and the business logic that the user adopts or creates according to his requirements.
 
