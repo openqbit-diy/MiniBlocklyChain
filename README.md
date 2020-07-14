@@ -62,6 +62,7 @@ f41af7e61c3b02fdd5e5c612302b62a2dd52fcb38f9of97cb2afd827e8804db8
 The above alphanumeric string is the signature that represents the sentence in the above example
 
 For more example we can use the site on the internet:
+
 https://emn178.github.io/online-tools/sha256.html
 
 
@@ -99,6 +100,7 @@ Mini BlocklyChain can implement both minimum PoW and PoQu concession types.
 The PoQu Proof is based on obtaining the number "nonce" this number in the PoQu Proof is known as "Magic Number" with this the "Peer to Peer" system will confirm if the number is correct and then a random number will be obtained with the QRNG server pool. This random number will be registered in all the nodes, a list will be created containing ((Node Sum /2)) +1 and from this list the one with the highest percentage of probability to be the winner candidate of the consensus (PoQu) will be chosen and this one will execute the current transaction queue.
 
 The PoQu algorithm also uses NIST (National Institute of Standards and Technology) testing to assure us that the random numbers in the QRNG are truly random numbers.
+
 https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-22r1a.pdf
 
 In Mini BlocklyChain we have implemented a block for PoW and a block for PoQu.
@@ -106,6 +108,7 @@ In Mini BlocklyChain we have implemented a block for PoW and a block for PoQu.
 These blocks use a type of hash: SHA256 for free use, for commercial use you have a SHA512 and other types of hash as required.
 
 For more details on the concept of HASH see:
+
 https://es.wikipedia.org/wiki/Funcion_hash
 
 NOTE: The Proof of Work (PoW) used in mobile phones can only use a maximum difficulty of 5 since the mathematical processing of these devices is not dedicated like servers or PCs. We only use the PoW algorithm to obtain the opportunity to obtain your pass or permission to enter the Quantum Random Number Generator (QRNG) system and with it to execute the Quantum Random Number Generator (PoQu) algorithm.
@@ -113,6 +116,7 @@ NOTE: The Proof of Work (PoW) used in mobile phones can only use a maximum diffi
 On mobile phones do not use a maximum difficulty of 5 as the system may lock up and not respond properly.
 
 More information.
+
 www.openqbit.com
 
 The only way to transcend is to share knowledge.
