@@ -115,7 +115,7 @@ On mobile phones do not use a maximum difficulty of 5 as the system may lock up 
 More information.
 www.openqbit.com
 
-Regards,
+The only way to transcend is to share knowledge.
 
 Guillermo Vidal.
 
