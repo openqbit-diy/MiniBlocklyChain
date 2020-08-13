@@ -16,7 +16,7 @@ The following concepts emphasize what type of user they are targeting, so it is 
 
 To review the way of use, there is a user manual created to implement a blockchain system from scratch.
 
-The manuals are found in the "HandBooks" directory in the following languages ​​(Spanish, English, Chinese, German, French, Italian, Japanese, Dutch and Portuguese).
+The user's guides are found in the "HandBooks" directory in the following languages ​​(Spanish, English, Chinese, German, French, Italian, Japanese, Dutch and Portuguese).
 
 Extensions are found in the "Extensions" directory which are described in detail in the user manual.
 
