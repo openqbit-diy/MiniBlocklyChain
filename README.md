@@ -22,7 +22,7 @@ Extensions are found in the "Extensions" directory which are described in detail
 
 The different extensions that provide us with levels of security to save, validate and transfer transactions from the Mini BlocklyChain network nodes.
 
-The security blocks are based on the following extensions:
+The Mini BlocklyChain the blocks are based on the following extensions:
 
 I.	  OpenQbitAESEncryption.- Extension for encrytion File with algorithm AES.
 
@@ -40,7 +40,7 @@ VII.	OpenQbitFileHash.- Extension for generate Hash to message (MD5, Sha1, Sha25
 
 VIII.	OpenQbitRSA.- Extension for encryption and decryption with algorithm RSA.
 
-IX.   OpenQbitP2PwithSSH.- Extension for configuration network share P2P File with Syncthing and network Tor configuration include SSH Cliente, if you use this extension, do not use extension OenQbitClientSSH.
+IX.   OpenQbitP2PwithSSH.- Extension for configuration network share P2P File with Syncthing and network Tor configuration include SSH Cliente, if you use this extension, do not use extension OpenQbitClientSSH.
 
 X.	  OpenQbitSSHClient.- Extension for create sessions with SSH (Secure Shell)
 
