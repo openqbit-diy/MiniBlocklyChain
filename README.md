@@ -30,7 +30,7 @@ II.	  OpenQbitAESDecryption.- Extension for decrytion File with algorithm AES.
 
 III.	OpenQbitAEStoString.- Extension for encrytion and decryption message (text data) with algorithm AES.
 
-IV.   OpenQbitBlock.- Extension for block - Merkle tree, Generation PrivateKey and PublicKey, Generation block Genesis, New block, generate valid address Bitcoin, Ethereum, MiniBlockly address and others blocks.
+IV.   OpenQbitBlock.- Extension for Miniblocklychain - Create Merkle tree, generate PrivateKey and PublicKey, block Genesis, New block, valid address Bitcoin, Ethereum, MiniBlockly address and others blocks.
 
 V.    OpenQbitCoin (Version Alpha).- Extension generate address Bitcoin, Ethereum, YourAddress Coin, others.
 
