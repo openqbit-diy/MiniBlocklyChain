@@ -38,11 +38,13 @@ VI.	  OpenQbitRSA extension.
 
 VII.	OpenQbitSSHClient extension.
 
-VIII.	OpenQbitStringHash extension.
+VIII. OpenQbitCoin (Version Alpha) extension.
 
-IX.	  OpenSQLite extension.
+IX.	OpenQbitStringHash extension.
 
-X.    OpenQbitBlock extension.
+X.	  OpenSQLite extension.
+
+XI.    OpenQbitBlock extension.
 
 We have implemented a consensus algorithm based on quantum computing which we call PoQu (Proof of Quantum).
 
