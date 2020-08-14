@@ -24,27 +24,30 @@ The different extensions that provide us with levels of security to save, valida
 
 The security blocks are based on the following extensions:
 
-I.	  OpenQbitAESEncryption extension.
+I.	  OpenQbitAESEncryption.- Extension for encrytion File with algorithm AES.
 
-II.	  OpenQbitAESDecryption extension.
+II.	  OpenQbitAESDecryption.- Extension for decrytion File with algorithm AES.
 
-III.	OpenQbitAEStoString extension.
+III.	OpenQbitAEStoString.- Extension for encrytion and decryption message (text data) with algorithm AES.
 
-IV.	  OpenQbitEncDecData extension.
+IV.   OpenQbitBlock.- Extension for block - Merkle tree, Generation PrivateKey and PublicKey, Generation block Genesis, New block, generate valid address Bitcoin, Ethereum, MiniBlockly address and others blocks.
 
-V.	  OpenQbitFileHash extension.
+V.    OpenQbitCoin (Version Alpha).- Extension generate address Bitcoin, Ethereum, YourAddress Coin, others.
 
-VI.	  OpenQbitRSA extension.
+VI.	  OpenQbitEncDecData.- Extension for encryption & decryption AES local.
 
-VII.	OpenQbitSSHClient extension.
+VII.	OpenQbitFileHash.- Extension for generate Hash to message (MD5, Sha1, Sha256 and Sha512).
 
-VIII. OpenQbitCoin (Version Alpha) extension.
+VIII.	OpenQbitRSA.- Extension for encryption and decryption with algorithm RSA.
 
-IX.	OpenQbitStringHash extension.
+IX.   OpenQbitP2PwithSSH.- Extension for configuration network share P2P File with Syncthing and network Tor configuration include SSH Cliente, if you use this extension, do not use extension OenQbitClientSSH.
 
-X.	  OpenSQLite extension.
+X.	  OpenQbitSSHClient.- Extension for create sessions with SSH (Secure Shell)
 
-XI.    OpenQbitBlock extension.
+XI.	  OpenQbitStringHash.- Extension for generate Hash to File (MD5, Sha1, Sha256 and Sha512)
+
+XII.	OpenSQLite extension..- Extension for administration SQLite Database.
+
 
 We have implemented a consensus algorithm based on quantum computing which we call PoQu (Proof of Quantum).
 
