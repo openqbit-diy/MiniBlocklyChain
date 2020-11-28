@@ -122,10 +122,8 @@ On mobile phones do not use a maximum difficulty of 5 as the system may lock up 
 
 More information.
 
-www.openqbit.com
+www.openqbit.com & www.coinsolidation.org
 
-The only way to transcend is to share knowledge.
-
-Guillermo Vidal.
+Developments launched in Estonia 2020-2021.
 
 
