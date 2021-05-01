@@ -2,7 +2,7 @@
 
 ![imagen](https://user-images.githubusercontent.com/60530547/86207891-1ea4d080-bb35-11ea-84d2-1b9aee22cf97.png)
 
-By www.OpenQbit.com
+By www.OpenQbit.com and www.COINsolidation.org
 
 
 The opensource version of Mini BlocklyChain, is a blockchain based on Blockly programming for App Inventor and others blockly systems. Information is available at languages ​​(Spanish, English, Chinese, German, French, Italian, Japanese, Dutch and Portuguese).
